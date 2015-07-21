@@ -1,2 +1,4 @@
 # clientmgr-react-es6-webpack
-Project to learn React + ES6 with real server data
+Small project wiring a golang API, PostgreSQL to a ReactJS front end bundled using webpack and written in the new ES6 standard. 
+
+API has been completed. Front end coming soon.
